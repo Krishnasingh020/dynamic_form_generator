@@ -27,7 +27,7 @@ Frontend: HTML, Django Templates
 ## Run locally
 ```bash
 git clone <https://github.com/Krishnasingh020/dynamic_form_generator>
-cd django-dynamic-form-generator
+cd dynamic_form_generator
  ```
 
 ```bash
